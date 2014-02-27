@@ -14,3 +14,9 @@ The pipeline can be installed locally for high throughput and control over confi
 - Run remotely through a web interface for convenience
 
 **SnowyOwl** is available [here](http://sourceforge.net/projects/snowyowl/)
+
+*Intended Audience:* Advanced End Users, Science/Research
+
+*User Interface:* Command-line, GTK+, Web-based
+
+*Programming Language:* PHP, Python
