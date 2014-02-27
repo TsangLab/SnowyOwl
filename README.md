@@ -13,4 +13,4 @@ The pipeline can be installed locally for high throughput and control over confi
 - Install and run locally for control and flexibility
 - Run remotely through a web interface for convenience
 
-SowyOwl is available [here](http://sourceforge.net/projects/snowyowl/)
+SnowyOwl is available [here](http://sourceforge.net/projects/snowyowl/)
